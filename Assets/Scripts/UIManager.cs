@@ -40,6 +40,11 @@ public class UIManager : MonoBehaviour {
                 break;
             case "Null":
                 break;
+            case "Quit":
+                Debug.Log("Quit Signal");
+                gameObject.GetComponent<ClientMaster>()._isEnableQuit = true;
+                Application.Quit();
+                break;
             default:
                 Debug.LogError("Unknown Signal");
                 break;

@@ -14,12 +14,17 @@ public class ClientMaster : MonoBehaviour {
 
     private WebSocket ws;
 
+    public bool _isEnableQuit;
+
     private void Awake() {
         var cCatchMessageStr = gameObject.ObserveEveryValueChanged(_ => _lastCatchMsg);
         cCatchMessageStr.Subscribe(x => OnCatchMessageStrChanged(x));
 
         var ca = "ws://" + _serverAddress + ":" + _port.ToString() + "/";
         Debug.Log("Connect to " + ca);
+
+        _isEnableQuit = false;
+        
         ws = new WebSocket(ca);
 
         //Add Events
@@ -45,7 +50,12 @@ public class ClientMaster : MonoBehaviour {
     }
 
     private void OnApplicationQuit() {
-        ws.Close();
+        if (!_isEnableQuit){
+            Application.CancelQuit();   
+        }
+        else{
+            ws.Close();   
+        }
     }
 
     /// <summary>
