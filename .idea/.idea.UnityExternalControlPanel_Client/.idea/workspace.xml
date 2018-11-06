@@ -2,13 +2,224 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcd03c8f-4484-4abb-b2e4-8b1a72b23fcf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClientMaster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClientMaster.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Frameworks/libcrypto.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Frameworks/libssl.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MacOS/Client_v1.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Mono/etc/mono/1.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Mono/etc/mono/2.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Mono/etc/mono/2.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Mono/etc/mono/2.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Mono/etc/mono/browscap.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Mono/etc/mono/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Mono/etc/mono/mconfig/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Ageia.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/Assembly-CSharp-firstpass.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/Mono.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/System.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/System.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UniRx.Async.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UniRx.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.BaselibModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.BaselibModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.CloudWebServicesModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.CloudWebServicesModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.FacebookModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.FacebookModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTrackingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTrackingModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TimelineModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.TimelineModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/UnityEngine.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/com.unity.postprocessing.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/com.unity.render-pipelines.core.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/com.unity.render-pipelines.lightweight.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/mscorlib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Managed/websocket-sharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/Resources/unity_builtin_extra" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/globalgamemanagers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/globalgamemanagers.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/level0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/level0.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/resources.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/resources.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/sharedassets0.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Data/sharedassets0.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/DefaultPreferences.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/KeyConfig.nib/classes.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/KeyConfig.nib/info.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/MainMenu.nib/classes.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/MainMenu.nib/info.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/MainMenu.nib/keyedobjects.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/Mono.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/ScreenSelector.nib/classes.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/ScreenSelector.nib/designable.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/ScreenSelector.nib/info.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/UnityPlayerIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.0_BuildBy2018.1.5f1/Client_v1.0.app/Contents/Resources/unity default resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/MacOS/Client_v1.1" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/MacOS/Client_v1.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/Assembly-CSharp-firstpass.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/Assembly-CSharp-firstpass.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/Mono.Security.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/Mono.Security.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/System.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/System.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/System.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/System.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UniRx.Async.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UniRx.Async.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UniRx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UniRx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UnityEngine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/UnityEngine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/com.unity.postprocessing.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/com.unity.postprocessing.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/com.unity.render-pipelines.core.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/com.unity.render-pipelines.core.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/com.unity.render-pipelines.lightweight.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/com.unity.render-pipelines.lightweight.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/mscorlib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/Managed/mscorlib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/MacOS/Client_v1.1_BuildBy2018.2.14f1/Client_v1.1.app/Contents/Resources/Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +231,7 @@
     <session id="-1802943961">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -350,12 +561,12 @@
       <workItem from="1541498795886" duration="855000" />
       <workItem from="1541507129299" duration="665000" />
       <workItem from="1541507837395" duration="422000" />
-      <workItem from="1541509099660" duration="2531000" />
+      <workItem from="1541509099660" duration="2798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4583000" />
+    <option name="totallyTimeSpent" value="4850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
