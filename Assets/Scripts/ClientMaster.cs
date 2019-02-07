@@ -51,10 +51,8 @@ public class ClientMaster : MonoBehaviour {
 
     private void OnApplicationQuit() {
         if (!_isEnableQuit){
-            Application.CancelQuit();   
-        }
-        else{
             ws.Close();   
+            Application.CancelQuit();   
         }
     }
 
